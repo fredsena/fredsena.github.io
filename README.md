@@ -4,7 +4,6 @@
 *Let's play my [Dictionary Game](https://dictionarygame.azurewebsites.net).*
 ================================
 
-* * *
 A bit of some markdown examples
 -------------------------
 The above header should be an H2 tag. Now, for a list of fruits:
@@ -54,7 +53,6 @@ Some people seem to like definition lists
   <dd>We've changed the product so that it's much easier to use!</dd>
 </dl>
 
-* * *
 I am a robot
 ------------
 
@@ -72,7 +70,6 @@ How about we throw some angle braces and ampersands in there?
         &copy; 2004 Foo Corporation
     </div>
 
-* * *
 Set in stone
 ------------
 
@@ -92,7 +89,6 @@ Preformatted blocks are useful for ASCII art:
   ___|_____________ 
 </pre>
 
-* * *
 Playing the game
 ----------------------
 
@@ -112,7 +108,6 @@ Or perhaps:
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit
 > sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...
 
-* * *
 Table for two
 -------------
 
