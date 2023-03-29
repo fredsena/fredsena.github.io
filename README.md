@@ -1,7 +1,7 @@
 
 # fredsena.github.io
 
-*Let's play my [Dictionary Game](https://dictionarygame.azurewebsites.net).*
+*Let's play my [Dictionary Game](https://dictionarygame.net).*
 ================================
 
 A bit of some markdown examples
